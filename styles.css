@@ -1781,7 +1781,7 @@ html, body {
   .alias-info strong b{font-size:15.5px !important;padding:1px 5px 2px !important}
   .alias-holder,.alias-holder b{font-size:8.8px !important}
   .copy-label{width:96px !important;min-width:96px !important;font-size:8px !important;padding:8px 4px !important}
-  .instagram-btn img{width:44px !important;height:44px !important;flex-basis:44px !important}
+  .instagram-btn img{width:52px !important;height:52px !important;flex-basis:52px !important}
 }
 
 /* =========================================================
@@ -2879,3 +2879,4 @@ html, body {
  .donation-banner-wrap{margin-top:13px;}
  .donation-banner{border-radius:10px;}
 }
+
